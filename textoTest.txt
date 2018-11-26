@@ -1,0 +1,3 @@
+Mais um texto no git. 
+
+Testando fazer um pull para meu diretorio local
